@@ -801,6 +801,7 @@
   border-top: 2px solid rgba(0, 0, 0, 0) !important;
   border-left: none !important;
   border-right: none !important;
+  width: auto !important;
   padding: 2px 8px !important;
   margin: 0 4px !important;
   margin-top: 0 !important;
@@ -889,6 +890,22 @@
 }
 #-blink-dev-tools .tabbed-pane-header-tabs-drop-down {
   color: #999 !important;
+}
+#-blink-dev-tools .split-view-sidebar .scripts-debug-toolbar {
+	background: -webkit-linear-gradient(#505050, #363636) !important;
+	box-shadow: inset 0 1px 0 #626262 !important;
+	border-bottom: 1px solid #1d1d1d !important;
+}
+#-blink-dev-tools .split-view-sidebar .scripts-debug-toolbar-drawer {
+	background: #222222 !important;
+	color: #cccccc !important;
+	border-bottom: none !important;
+}
+#-blink-dev-tools .scripts-debug-toolbar .scripts-pause.toggled-on .long-click-glyph {
+	background-color: transparent !important;
+}
+#-blink-dev-tools .scripts-debug-toolbar .scripts-pause.toggled-on .long-click-glyph.shadow {
+	background-color: transparent !important;
 }
 #-blink-dev-tools .split-view.hbox > .split-view-sidebar.split-view-contents-second:not(.maximized) {
   border-left: 2px solid #272727 !important;
