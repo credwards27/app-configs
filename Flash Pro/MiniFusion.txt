@@ -1,0 +1,6 @@
+foreground: aeaeae
+background: 002322
+keywords: b97ea6
+comments: 4b5959
+identifiers: 64e14a
+strings: ffcd35

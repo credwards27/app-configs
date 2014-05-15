@@ -1,0 +1,6 @@
+forground: 000000
+background: ffffff
+keywords: 9900cc
+identifiers: 0000ff
+comments: ff9900
+strings: 009900
