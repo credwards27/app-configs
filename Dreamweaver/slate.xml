@@ -102,7 +102,7 @@
 		<syntaxColor id="CodeColor_CSSProperty" text="#439FEE" />
 		<syntaxColor id="CodeColor_CSSSelector" text="#D97741" />
 		<syntaxColor id="CodeColor_CSSString" text="#95EAA6" />
-		<syntaxColor id="CodeColor_CSSValue" text="#BCBCBC" />
+		<syntaxColor id="CodeColor_CSSValue" text="#86ACE5" />
 	</colorGroup>
 	<colorGroup doctypes="HTML">
 		<syntaxColor id="CodeColor_ASPIncludeAttributes" text="#FE76EE" />
@@ -116,7 +116,7 @@
 		<syntaxColor id="CodeColor_CSSProperty" text="#439FEE" />
 		<syntaxColor id="CodeColor_CSSSelector" text="#D97741" />
 		<syntaxColor id="CodeColor_CSSString" text="#95EAA6" />
-		<syntaxColor id="CodeColor_CSSValue" text="#BCBCBC" />
+		<syntaxColor id="CodeColor_CSSValue" text="#86ACE5" />
 		<syntaxColor id="CodeColor_DateText" text="#BCBCBC" bgcolor="#222" />
 		<tagColor id="CodeColor_HTMLAnchor" text="#E0E26D" />
 		<syntaxColor id="CodeColor_HTMLString" text="#D97741" />
@@ -149,13 +149,13 @@
 		<syntaxColor id="CodeColor_TemplateCommentAttr" text="#5B6D4A" />
 		<syntaxColor id="CodeColor_TemplateText" text="#505050" bgcolor="#222" italic="true" />
 		<tagColor id="DWTagLibrary_templates" text="#38452C" />
-		<syntaxColor id="CodeColor_SVGString" text="#060" />
-		<syntaxColor id="CodeColor_SVGAttr" text="#009" />
-		<syntaxColor id="CodeColor_SVGComment" text="#999" />
-		<syntaxColor id="CodeColor_SVGNumber" text="#F00" />
-		<tagColor id="CodeColor_SVGTagGroup" text="#009" />
-		<syntaxColor id="CodeColor_SVGTag" text="#009" />
-		<syntaxColor id="CodeColor_SVGText" text="#000" />
+		<syntaxColor id="CodeColor_SVGString" text="#D97741" />
+		<syntaxColor id="CodeColor_SVGAttr" text="#439FEE" />
+		<syntaxColor id="CodeColor_SVGComment" text="#505050" />
+		<syntaxColor id="CodeColor_SVGNumber" text="#D97741" />
+		<tagColor id="CodeColor_SVGTagGroup" text="#439FEE" />
+		<syntaxColor id="CodeColor_SVGTag" text="#439FEE" />
+		<syntaxColor id="CodeColor_SVGText" text="#BCBCBC" />
 	</colorGroup>
 	<colorGroup doctypes="JavaScript">
 		<syntaxColor id="CodeColor_JavascriptBracket" text="#BCBCBC" bold="false" />
@@ -231,7 +231,7 @@
 		<syntaxColor id="CodeColor_CSSProperty" text="#439FEE" />
 		<syntaxColor id="CodeColor_CSSSelector" text="#D97741" />
 		<syntaxColor id="CodeColor_CSSString" text="#95EAA6" />
-		<syntaxColor id="CodeColor_CSSValue" text="#BCBCBC" />
+		<syntaxColor id="CodeColor_CSSValue" text="#86ACE5" />
 		<syntaxColor id="CodeColor_DateText" text="#BCBCBC" bgcolor="#222" />
 		<tagColor id="CodeColor_HTMLAnchor" text="#E0E26D" />
 		<syntaxColor id="CodeColor_HTMLString" text="#D97741" />
@@ -294,5 +294,21 @@
 		<syntaxColor id="CodeColor_VBSOperator" text="#86ACE5" />
 		<syntaxColor id="CodeColor_VBSReserved" text="#439FEE" />
 		<syntaxColor id="CodeColor_VBSString" text="#95EAA6" />
+	</colorGroup>
+	<colorGroup doctypes="Csharp">
+		<syntaxColor id="CodeColor_ASPNetCSharpKeywords" text="#A376CD" />
+		<syntaxColor id="CodeColor_CSharpBlock" text="#BCBCBC" />
+		<syntaxColor id="CodeColor_CSharpBracket" text="#BCBCBC" />
+		<syntaxColor id="CodeColor_CSharpChar" text="#95EAA6" />
+		<syntaxColor id="CodeColor_CSharpComment" text="#505050" />
+		<syntaxColor id="CodeColor_CSharpDefaultText" text="#BCBCBC" />
+		<syntaxColor id="CodeColor_CSharpIdentifier" text="#BCBCBC" />
+		<syntaxColor id="CodeColor_Number" text="#D97741" />
+		<syntaxColor id="CodeColor_CSharpOperator" text="#86ACE5" />
+		<syntaxColor id="CodeColor_CSharpReserved" text="#439FEE" />
+		<syntaxColor id="CodeColor_CSharpString" text="#95EAA6" />
+	</colorGroup>
+	<colorGroup doctypes="Text">
+		<syntaxColor id="CodeColor_TextText" text="#BCBCBC" />
 	</colorGroup>
 </codeColors>
