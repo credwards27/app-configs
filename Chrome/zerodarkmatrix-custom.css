@@ -1926,6 +1926,9 @@
   color: #AAA !important;
   text-shadow: none !important;
 }
+#-blink-dev-tools select.status-bar-item {
+	margin-right: -15px !important;
+}
 #-blink-dev-tools select.status-bar-item option {
   background-color: #282828 !important;
 }
