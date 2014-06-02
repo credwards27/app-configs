@@ -1,4 +1,4 @@
-<codeColors>
+<codeColors> 
 	<colorGroup>
 		<syntaxColor id="CodeColor_HTMLEntity" bold="true" />
 		<syntaxColor id="CodeColor_JavascriptNative" text="#009999" />
