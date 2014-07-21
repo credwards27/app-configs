@@ -452,6 +452,9 @@
 #-blink-dev-tools .styles-section .properties .not-parsed-ok {
   opacity: .5 !important;
 }
+#-blink-dev-tools .sidebar {
+	background-color: #222222 !important;
+}
 #-blink-dev-tools .sidebar-pane .body,
 #-blink-dev-tools .sidebar-pane .monospace {
   color: #cccccc !important;
