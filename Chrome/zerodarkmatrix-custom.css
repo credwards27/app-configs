@@ -1,10 +1,13 @@
 /*****************************************************************************/
-/* Zero-Dark-Matrix
+/* Zero-Dark-Matrix (Forked)
 /* Optimized for Chrome Stable Channel v33
 /* https://github.com/mauricecruz/zero-base-themes
 /*************************************************************************/
 
 
+#-blink-dev-tools {
+	color: #ccc !important;
+}
 #-blink-dev-tools .panel.sources .split-view-vertical .split-view-contents {
   -webkit-transition: right 0.5s ease-in-out;
 }
