@@ -9,7 +9,7 @@
 		<syntaxColor id="CodeColor_TemplateText" text="#999999" />
 		<syntaxColor id="CodeColor_TemplateCommentText" text="#006600" />
 		<syntaxColor id="CodeColor_TemplateCommentAttr" text="#006600" />
-		<syntaxColor id="CodeColor_CFCommentText" text="#000000" bgcolor="#FFFF99" />
+		<syntaxColor id="CodeColor_CFCommentText" text="#000000" bgcolor="#FFFF99"/>
 		<syntaxColor id="CodeColor_JavaJSP" text="#009999" />
 		<syntaxColor id="CodeColor_JavaImplicit" text="#999900" />
 		<syntaxColor id="CodeColor_JavaOther" text="#990099" />
@@ -43,10 +43,16 @@
 		<tagColor id="CodeColor_HTMLScript" text="#990000" />
 		<tagColor id="CodeColor_HTMLStyle" text="#990099" />
 		<tagColor id="CodeColor_HTMLTable" text="#009999" />
+		<syntaxColor id="CodeColor_VisCSS_Tag_Identify" bgcolor="#DDDDDD" />
+		<syntaxColor id="CodeColor_TagSelector_DefaultBackground" bgcolor="#EFEFEF" />
+		<syntaxColor id="CodeColor_TagSelector_DefaultArrowFill" bgcolor="#D6D6D6" />
+		<syntaxColor id="CodeColor_TagSelector_ArrowHoverBorder" bgcolor="#AAAAAA" />
+		<syntaxColor id="CodeColor_TagSelector_ArrowSelectedColor" bgcolor="#00C0FD" />
+		<syntaxColor id="CodeColor_TagSelector_RootTagBorderColor" bgcolor="#999999" />
 		<syntaxColor id="CodeColor_SpryAttributes" text="#FF6208" />
-		<syntaxColor id="CodeColor_Spry_Tag_Normal" bgcolor="#F8D0AF" />
-		<syntaxColor id="CodeColor_Spry_Tag_Hover" bgcolor="#FF9B58" />
-		<syntaxColor id="CodeColor_Spry_Tag_Selected" bgcolor="#FF6D0C" />
+		<syntaxColor id="CodeColor_Spry_Tag_Normal"		bgcolor="#F8D0AF" />
+		<syntaxColor id="CodeColor_Spry_Tag_Hover"		bgcolor="#FF9B58" />
+		<syntaxColor id="CodeColor_Spry_Tag_Selected"   bgcolor="#FF6D0C" />
 		<syntaxColor id="CodeColor_HTMLComment" text="#999999" />
 		<syntaxColor id="CodeColor_HTMLString" text="#0000FF" />
 		<syntaxColor id="CodeColor_HTMLNumber" text="#0000FF" />
@@ -93,6 +99,13 @@
 		<syntaxColor id="CodeColor_ASRemoteNumber" text="#FF0000" />
 		<syntaxColor id="CodeColor_ASRemoteReserved" text="#000099" />
 		<syntaxColor id="CodeColor_ASRemoteString" text="#0000FF" />
+		<syntaxColor id="CodeColor_SVGAttr" text="#F90" />
+		<syntaxColor id="CodeColor_SVGComment" text="#AAB" />
+		<syntaxColor id="CodeColor_SVGNumber" text="#00F" />
+		<syntaxColor id="CodeColor_SVGString" text="#900" />
+		<syntaxColor id="CodeColor_SVGTag" text="#C70" />
+		<syntaxColor id="CodeColor_SVGText" text="#000" />
+		<tagColor id="CodeColor_SVGTagGroup" text="#A50" />
 	</colorGroup>
 	<colorGroup doctypes="CSS">
 		<syntaxColor id="CodeColor_CSSComment" text="#505050" italic="true" />
