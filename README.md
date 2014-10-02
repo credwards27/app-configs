@@ -1,10 +1,12 @@
-color-schemes
+app-configs
 =============
 
-Color schemes for various code editors
+Configuration files for various applications
 
 You can use hard links to separate your repo directory and file names from the actual configuration files.
 This allows for easier editing and organization from outside the configuration directories.
+
+Copy or hard link each file into the correct locations as listed below.
 
 --------------------
 Chrome
@@ -22,7 +24,29 @@ Mac: /Users/[username]/Library/Application Support/Google/Chrome/Default/Extensi
 Dreamweaver
 --------------------
 
-1. Place the color scheme file in the following location and rename it to "Colors.xml":
+1. color-schemes
 
-Windows: C:\\Users\[username]\AppData\Roaming\Adobe\Dreamweaver[version]\[language]\Configuration\CodeColoring\
-Mac: /Users/edwardch/Library/Application Support/Adobe/Dreamweaver[version]/[language]/Configuration/CodeColoring/
+Rename to "Colors.xml":
+
+Windows: C:\Users\[username]\AppData\Roaming\Adobe\Dreamweaver[version]\[language]\Configuration\CodeColoring\
+Mac: /Users/[username]/Library/Application\ Support/Adobe/Dreamweaver[version]/[language]/Configuration/CodeColoring/
+
+2. doc-templates
+
+Copy only, do not hard link. On Mac, set permissions to 775 and owner:group to root:admin:
+
+Windows: C:\Programs Files (x86)\Adobe\Adobe Dreamweaver[version]\configuration\DocumentTypes\NewDocuments\
+Mac: /Applications/Adobe\ Dreamweaver[version]/Configuration/DocumentTypes/NewDocuments
+
+3. extensions
+
+Extensions.txt:
+
+Windows: C:\Users\[username]\AppData\Roaming\Adobe\Dreamweaver[version]\[language]\Configuration\
+Mac: /Users/[username]/Library/Application\ Support/Adobe/Dreamweaver[version]/[language]/Configuration/
+
+MMDocumentTypes.xml:
+
+Windows: C:\Users\[username]\AppData\Roaming\Adobe\Dreamweaver[version]\[language]\Configuration\DocumentTypes\
+Mac: /Users/[username]/Library/Application\ Support/Adobe/Dreamweaver[version]/[language]/Configuration/DocumentTypes/
+
