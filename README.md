@@ -24,21 +24,21 @@ Mac: /Users/[username]/Library/Application Support/Google/Chrome/Default/Extensi
 Dreamweaver
 --------------------
 
-1. color-schemes
+----- color-schemes -----
 
 Rename to "Colors.xml":
 
 Windows: C:\Users\[username]\AppData\Roaming\Adobe\Dreamweaver[version]\[language]\Configuration\CodeColoring\
 Mac: /Users/[username]/Library/Application\ Support/Adobe/Dreamweaver[version]/[language]/Configuration/CodeColoring/
 
-2. doc-templates
+----- doc-templates -----
 
 Copy only, do not hard link. On Mac, set permissions to 775 and owner:group to root:admin:
 
 Windows: C:\Programs Files (x86)\Adobe\Adobe Dreamweaver[version]\configuration\DocumentTypes\NewDocuments\
-Mac: /Applications/Adobe\ Dreamweaver[version]/Configuration/DocumentTypes/NewDocuments
+Mac: /Applications/Adobe\ Dreamweaver[version]/Configuration/DocumentTypes/NewDocuments/
 
-3. extensions
+----- extensions -----
 
 Extensions.txt:
 
@@ -50,3 +50,23 @@ MMDocumentTypes.xml:
 Windows: C:\Users\[username]\AppData\Roaming\Adobe\Dreamweaver[version]\[language]\Configuration\DocumentTypes\
 Mac: /Users/[username]/Library/Application\ Support/Adobe/Dreamweaver[version]/[language]/Configuration/DocumentTypes/
 
+----- keyboard-shortcuts -----
+
+Custom keyboard shortcuts must be set within Dreamweaver from the keyboard shortcuts preference menu.
+
+Windows: C:\Users\[username]\AppData\Roaming\Adobe\Dreamweaver[version]\[language]\Configuration\Menus\Custom Sets\
+Mac: /Users/[username]/Library/Application\ Support/Adobe/Dreamweaver[version]/[language]/Configuration/Menus/Custom Sets/
+
+----- toolbars -----
+
+Copy only, do not hard link. On Mac, set permissions to 775 and owner:group to root:admin:
+
+Windows: C:\Programs Files (x86)\Adobe\Adobe Dreamweaver[version]\configuration\Toolbars\
+Mac: /Applications/Adobe\ Dreamweaver[version]/Configuration/Toolbars/
+
+----- workspaces -----
+
+Workspaces must be selected in Dreamweaver after they have been added to the configuration folder.
+
+C:\Users\[username]\AppData\Roaming\Adobe\Dreamweaver[version]\[language]\Configuration\Workspace\
+Mac: /Users/[username]/Library/Application\ Support/Adobe/Dreamweaver[version]/[language]/Configuration/Workspace/
