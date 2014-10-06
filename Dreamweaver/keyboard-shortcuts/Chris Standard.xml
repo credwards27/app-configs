@@ -74,7 +74,7 @@
   <SHORTCUT ID="DWMenu_View_LiveViewOptions_Freeze_JavaScript"  keys="F6"/>
   <SHORTCUT ID="DWMenu_View_LiveViewOptions_Disable_JavaScript"  keys=""/>
   <SHORTCUT ID="DWMenu_View_LiveViewOptions_Highlight_Changes"  keys=""/>
-  <SHORTCUT ID="DWPopup_LiveViewOptions_Hide_Show_LiveView_Displays_Win"  keys="Ctrl+Alt+H"/>
+  <SHORTCUT ID="DWPopup_LiveViewOptions_Disable_ReverseInspect"  keys="Ctrl+F9"/>
   <SHORTCUT ID="DWMenu_View_LiveViewOptions_Follow_The_Next_Link"  keys=""/>
   <SHORTCUT ID="DWMenu_View_LiveViewOptions_Follow_All_Links"  keys=""/>
   <SHORTCUT ID="DWMenu_View_LiveViewOptions_Auto_Sync_Remote"  keys=""/>
@@ -83,7 +83,6 @@
   <SHORTCUT ID="DWMenu_View_LiveViewOptions_Request_Settings"  keys=""/>
   <SHORTCUT ID="DWMenu_View_LiveCode"  keys=""/>
   <SHORTCUT ID="DWMenu_View_InspectMode"  keys="Opt+Shift+F11"/>
-  <SHORTCUT ID="DWMenu_View_DomTool"  keys="Cmd+/"/>
   <SHORTCUT ID="DWMenu_View_LiveDebug"  keys="Cmd+Shift+G"/>
   <SHORTCUT ID="DWMenu_View_VisualAids_HideAll"  keys="Cmd+Shift+I"/>
   <SHORTCUT ID="DWMenu_View_DivBackgrounds"  keys=""/>
@@ -187,16 +186,15 @@
   <SHORTCUT ID="DWMenu_Insert_TextObjects_OL"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_TextObjects_LI"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_Header"  keys=""/>
+  <SHORTCUT ID="DWMenu_Insert_HGroup"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_H1"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_H2"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_H3"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_H4"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_H5"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_H6"  keys=""/>
-  <SHORTCUT ID="DWMenu_Insert_HGroup"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_Paragraph"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_Nav"  keys=""/>
-  <SHORTCUT ID="DWMenu_Insert_Main"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_Aside"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_Article"  keys=""/>
   <SHORTCUT ID="DWMenu_Insert_Section"  keys=""/>
@@ -617,19 +615,17 @@
   <SHORTCUT ID="DWMenu_Window_LinkCheckerPanel"  keys=""/>
   <SHORTCUT ID="DWMenu_Window_ReportPanel"  keys=""/>
   <SHORTCUT ID="DWMenu_Window_FTP_LogPanel"  keys=""/>
-  <SHORTCUT ID="DWMenu_Window_BrowseAddOns"  keys=""/>
+  <SHORTCUT ID="DWMenu_Window_ManageExtensions"  keys=""/>
   <SHORTCUT ID="DWMenu_Window_Layout"  keys=""/>
   <SHORTCUT ID="DWMenu_Window_ShowPalettes"  keys="F4"/>
   <SHORTCUT ID="DWMenu_Window_cascade"  keys=""/>
   <SHORTCUT ID="DWMenu_Window_tileHorizontally"  keys=""/>
   <SHORTCUT ID="DWMenu_Window_tileVertically"  keys=""/>
-  <SHORTCUT ID="DWMenu_Help_NewFeatures"  keys=""/>
-  <SHORTCUT ID="DWMenu_Help_NewFeaturesVideos"  keys=""/>
-  <SHORTCUT ID="DWMenu_Help_LearnDreamweaver"  keys=""/>
   <SHORTCUT ID="DWMenu_Help_DWHelp"  keys="F1"/>
   <SHORTCUT ID="DWMenu_DW_Help_SupportCenter"  keys=""/>
+  <SHORTCUT ID="DWMenu_Help_Exchange"  keys=""/>
   <SHORTCUT ID="DWMenu_Help_Forums"  keys=""/>
-  <SHORTCUT ID="DWMenu_Help_Wishlist"  keys=""/>
+  <SHORTCUT ID="DWMenu_Help_ProdImprovement"  keys=""/>
   <SHORTCUT ID="DWMenu_Help_About"  keys=""/>
   <SHORTCUT ID="SiteOptionsFileMenu_NewFile"  keys="Cmd+Shift+N"/>
   <SHORTCUT ID="SiteOptionsFileMenu_NewFolder"  keys="Cmd+Opt+Shift+N"/>
@@ -821,11 +817,6 @@
   <SHORTCUT ID="DWShortcuts_Main_ShiftCmdUp"  keys="Cmd+Shift+Up"/>
   <SHORTCUT ID="DWShortcuts_Main_ShiftCmdDown"  keys="Cmd+Shift+Down"/>
   <SHORTCUT ID="DWShortcuts_Main_SwitchBetweenClassicAndModernCSSPanel"  keys="Cmd+Shift+Opt+P"/>
-  <SHORTCUT ID="DWShortcuts_Main_AddSelectedVisCssPropertyOrSelector"  keys="Ctrl+Alt+="/>
-  <SHORTCUT ID="DWShortcuts_Main_AddVisCssSelector"  keys="Ctrl+Alt+S"/>
-  <SHORTCUT ID="DWShortcuts_Main_AddVisCssProperty"  keys="Ctrl+Alt+P"/>
-  <SHORTCUT ID="DWShortcuts_Main_VisCssNextPane"  keys="Ctrl+Alt+PgDn"/>
-  <SHORTCUT ID="DWShortcuts_Main_VisCssPreviousPane"  keys="Ctrl+Alt+PgUp"/>
   <SHORTCUT ID="DWShortcuts_Paste_Text"  keys=""/>
   <SHORTCUT ID="DWShortcuts_Paste_Structure"  keys=""/>
   <SHORTCUT ID="DWShortcuts_Paste_BasicFormat"  keys=""/>
@@ -842,7 +833,6 @@
   <SHORTCUT ID="DWShortcuts_Main_PrevDocument"  keys="Ctrl+Shift+Tab"/>
   <SHORTCUT ID="DWShortcuts_Main_GoToSourceCodeRelatedDoc"  keys="Cmd+Opt+`"/>
   <SHORTCUT ID="DWShortcuts_Main_CodeNavigator"  keys="Cmd+Opt+N"/>
-  <SHORTCUT ID="DWShortcuts_Main_DomTool"  keys="Cmd+/"/>
   <SHORTCUT ID="DWShortcuts_Site_CloseWindow"  keys="Cmd+F4"/>
   <SHORTCUT ID="DWShortcuts_Site_Quit"  keys="Opt+F4"/>
   <SHORTCUT ID="DWShortcuts_Site_SiteOpen"  keys="Return"/>
