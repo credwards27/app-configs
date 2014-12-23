@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <panelset>
 
-  <application maximize="false" rect="0 23 2560 1437"/>
+  <application colorIcon="true" docView="code" maximize="false" rect="1155 22 2560 1438"/>
 
   <workspaceprefs>
     <preference enabled="true" id="cssModernView"/>
   </workspaceprefs>
 
-  <document maximize="false" rect="244 78 2559 1436"/>
+  <document maximize="false" rect="1196 77 2559 1437"/>
 
-  <panelframe dock="left" height="1368" width="242" x="0" y="0">
+  <panelframe dock="left" height="42" iconmodewidth="39" mode="icon" width="39" x="0" y="1328">
     <panelcontainer expanded="true" height="664" visible="false">
       <panel category="" height="664" id="objects" showLabel="true" unconstrainedheight="300" unconstrainedwidth="208" viewStyle="tabs" width="275"/>
     </panelcontainer>
-    <panelcontainer expanded="false" height="1" visible="true">
+    <panelcontainer expanded="false" height="1" visible="false">
       <panel height="1" id="css styles" unconstrainedheight="300" unconstrainedwidth="240" width="1"/>
       <panel height="1" id="apElements" unconstrainedheight="300" unconstrainedwidth="240" width="1"/>
       <panel height="1" id="tag inspector" unconstrainedheight="300" unconstrainedwidth="240" visibleTab="false" width="1"/>
@@ -24,10 +24,10 @@
       <panel height="900" id="server scripts" unconstrainedheight="270" unconstrainedwidth="208" width="208"/>
       <panel height="900" id="server components" unconstrainedheight="270" unconstrainedwidth="208" visibleTab="false" width="208"/>
     </panelcontainer>
-    <panelcontainer expanded="true" height="1327" visible="true">
-      <panel height="1327" id="site" unconstrainedheight="300" unconstrainedwidth="240" width="240"/>
-      <panel height="1327" id="assets" unconstrainedheight="300" unconstrainedwidth="240" width="240"/>
-      <panel height="1327" id="snippets" unconstrainedheight="300" unconstrainedwidth="240" width="240"/>
+    <panelcontainer expanded="true" height="1248" visible="true">
+      <panel height="1248" id="site" unconstrainedheight="1248" unconstrainedwidth="495" width="495"/>
+      <panel height="1248" id="assets" unconstrainedheight="1248" unconstrainedwidth="495" width="495"/>
+      <panel height="1248" id="snippets" unconstrainedheight="1248" unconstrainedwidth="495" width="495"/>
     </panelcontainer>
     <panelcontainer expanded="true" height="180" visible="false">
       <panel height="180" id="frames" unconstrainedheight="0" unconstrainedwidth="0" width="208"/>
@@ -39,7 +39,7 @@
 
   <panelframe dock="bottom" height="1" width="1" x="0" y="0">
     <panelcontainer expanded="true" height="1" visible="false">
-      <panel height="1" id="propertiesMfc" unconstrainedheight="101" unconstrainedwidth="990" width="1"/>
+      <panel height="1" id="propertiesMfc" unconstrainedheight="100" unconstrainedwidth="1014" width="1"/>
     </panelcontainer>
     <panelcontainer expanded="true" height="1" visible="false">
       <panel height="1" id="properties" unconstrainedheight="49" unconstrainedwidth="820" width="1"/>
