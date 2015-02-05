@@ -9,7 +9,7 @@
 		<syntaxColor id="CodeColor_TemplateText" text="#999999" />
 		<syntaxColor id="CodeColor_TemplateCommentText" text="#006600" />
 		<syntaxColor id="CodeColor_TemplateCommentAttr" text="#006600" />
-		<syntaxColor id="CodeColor_CFCommentText" text="#000000" bgcolor="#FFFF99"/>
+		<syntaxColor id="CodeColor_CFCommentText" text="#000000" bgcolor="#FFFF99" />
 		<syntaxColor id="CodeColor_JavaJSP" text="#009999" />
 		<syntaxColor id="CodeColor_JavaImplicit" text="#999900" />
 		<syntaxColor id="CodeColor_JavaOther" text="#990099" />
@@ -50,9 +50,9 @@
 		<syntaxColor id="CodeColor_TagSelector_ArrowSelectedColor" bgcolor="#00C0FD" />
 		<syntaxColor id="CodeColor_TagSelector_RootTagBorderColor" bgcolor="#999999" />
 		<syntaxColor id="CodeColor_SpryAttributes" text="#FF6208" />
-		<syntaxColor id="CodeColor_Spry_Tag_Normal"		bgcolor="#F8D0AF" />
-		<syntaxColor id="CodeColor_Spry_Tag_Hover"		bgcolor="#FF9B58" />
-		<syntaxColor id="CodeColor_Spry_Tag_Selected"   bgcolor="#FF6D0C" />
+		<syntaxColor id="CodeColor_Spry_Tag_Normal" bgcolor="#F8D0AF" />
+		<syntaxColor id="CodeColor_Spry_Tag_Hover" bgcolor="#FF9B58" />
+		<syntaxColor id="CodeColor_Spry_Tag_Selected" bgcolor="#FF6D0C" />
 		<syntaxColor id="CodeColor_HTMLComment" text="#999999" />
 		<syntaxColor id="CodeColor_HTMLString" text="#0000FF" />
 		<syntaxColor id="CodeColor_HTMLNumber" text="#0000FF" />
