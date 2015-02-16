@@ -3,7 +3,7 @@
 	Description of file
 */
 
-(function(glob)
+(function(w)
 {
 "use strict";
 
