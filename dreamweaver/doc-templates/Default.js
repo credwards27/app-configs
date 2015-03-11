@@ -3,10 +3,10 @@
 	Description of file
 */
 
-(function(w)
+(function()
 {
 "use strict";
 
 // Code here
 
-})(this);
+})();
