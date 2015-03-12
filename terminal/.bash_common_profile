@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Custom prompt
+export PS1="<\u>:\W $ "
+
+# Load common aliases
+if [ -f ~/.bash_common_aliases ]; then
+	. ~/.bash_common_aliases
+fi
+
