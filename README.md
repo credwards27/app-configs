@@ -94,7 +94,7 @@ Workspaces must be selected in Dreamweaver after they have been added to the con
 
 All file paths in the `terminal` directory represent relative paths from the user home directory. Hard or soft links can be created in the directories where these files need to be placed to enable them.
 
-To use the custom bash configurations, include the following code at the top or `.bash_profile`:
+To use the custom bash configurations, include the following code at the top of `.bash_profile`:
 
 	if [ -f ~/.bash_common_profile ]; then
 		. ~/.bash_common_profile
