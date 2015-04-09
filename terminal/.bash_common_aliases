@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Custom ls colors
-export LSCOLORS="gxfxcxdxbxegedabagacad"
-export LS_COLORS=$LSCOLORS
-
 # Common custom aliases
 
 # Clear shortcut
