@@ -13,5 +13,6 @@ alias tarc="tar -cvzf"
 alias tarx="tar -xvzf"
 
 # SCP and SFTP with SSH config
-alias scp="scp -F ~/.ssh/config"
-alias sftp="sftp -F ~/.ssh/config"
+alias scp="scp -F ~/.ssh/config -o VisualHostKey=yes"
+alias sftp="sftp -F ~/.ssh/config -o VisualHostKey=yes"
+alias ssh="ssh -o VisualHostKey=yes"
